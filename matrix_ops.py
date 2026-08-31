@@ -5,7 +5,6 @@ Complete the two functions below. See
 Lab_03_The_Row_Major_Detective.md, Part B, for the full requirements.
 """
 
-from array import array
 from typing import List
 
 
